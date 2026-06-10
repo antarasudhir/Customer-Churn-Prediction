@@ -2,6 +2,16 @@
 
 📉 **Predict customer churn using machine learning to optimize retention strategies and safeguard recurring business revenue.**
 
+---
+
+## 👥 Project Team & Course Information
+
+| Course & Term | Team | Project Contributors |
+| :--- | :--- | :--- |
+| AD571 – SPR 2026 | Team 1 | Antara Sudhir, Hye Won Kim, Julie Tran |
+
+---
+
 ## 📌 Project Overview
 Customer attrition (churn) presents a substantial financial risk to business sustainability. This project delivers a data-driven approach to identifying at-risk customers by analyzing demographic patterns, service usage metrics, and historical account behavior. 
 
@@ -25,7 +35,3 @@ To reflect this economic reality, this pipeline prioritizes **Recall over Precis
 ├── Churn Prediction.ipynb   # Exploratory Data Analysis (EDA) & Model Pipelines
 ├── customer_churn.csv       # Dataset containing customer demographic and usage metrics
 └── README.md                # Project documentation
-
-| Course & Term | Team | Project Contributors |
-| :--- | :--- | :--- |
-| AD571 – SPR 2026 | Team 1 | Antara Sudhir, Hye Won Kim, Julie Tran |
