@@ -25,3 +25,7 @@ To reflect this economic reality, this pipeline prioritizes **Recall over Precis
 ├── Churn Prediction.ipynb   # Exploratory Data Analysis (EDA) & Model Pipelines
 ├── customer_churn.csv       # Dataset containing customer demographic and usage metrics
 └── README.md                # Project documentation
+
+| Course & Term | Team | Project Contributors |
+| :--- | :--- | :--- |
+| AD571 – SPR 2026 | Team 1 | Antara Sudhir, Hye Won Kim, Julie Tran |
